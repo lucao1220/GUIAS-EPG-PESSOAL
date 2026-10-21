@@ -8,7 +8,7 @@
   </channel>
 
   <!-- Repetição Diária de Bloco Único de 24 Horas de 2026 até o final de 2028 -->
-  <programme start="20261021000000 -0300" stop="20281231235959 -0300" channel="amc.series.fixo">
+  <programme start="20261021000000 -0300" stop="20301231235959 -0300" channel="amc.series.fixo">
     <title lang="pt">Programação do Canal AMC Séries</title>
     <desc lang="pt">Acompanhe a programação do Canal AMC Séries...</desc>
   </programme>
